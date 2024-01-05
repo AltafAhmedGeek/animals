@@ -33,7 +33,7 @@ const AnimalShow = ({ type }) => {
         alt="animal"
         onClick={handleClick}
       />
-      <img className="heart" src={heart} alt="heart" style={heartStyle} />
+      <img className="heart" src={heart} alt="Heart" style={heartStyle} />
     </div>
   );
 };
